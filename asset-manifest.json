@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rachit_resume/static/css/main.83ce53d4.css",
+    "main.js": "/rachit_resume/static/js/main.b160614c.js",
+    "static/media/ab-img.png": "/rachit_resume/static/media/ab-img.fe317ef593c39e757164.png",
+    "static/media/profile.jpg": "/rachit_resume/static/media/profile.4dd9166ddc9065e910aa.jpg",
+    "static/media/bac2.jpg": "/rachit_resume/static/media/bac2.631b06bf766fc73babdd.jpg",
+    "index.html": "/rachit_resume/index.html",
+    "main.83ce53d4.css.map": "/rachit_resume/static/css/main.83ce53d4.css.map",
+    "main.b160614c.js.map": "/rachit_resume/static/js/main.b160614c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ce53d4.css",
+    "static/js/main.b160614c.js"
+  ]
+}
